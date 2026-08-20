@@ -52,6 +52,4 @@ A simple expense tracking web app built with **Streamlit**, **Pandas**, **Matplo
 3. Filter your expenses by week or month.
 4. Save your expenses to `expenses.csv`, or upload an existing CSV to load past data.
 
-## License
 
-This project currently has no license specified.
